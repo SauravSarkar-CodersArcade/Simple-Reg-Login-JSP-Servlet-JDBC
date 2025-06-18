@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Registration Demo</title>
+<title>Login Demo</title>
 <style>
   body {
       margin: 0;
@@ -34,21 +34,11 @@
 </head>
 <body>
 	<div class="container">
-		<form action="regForm" method="post">
-			Name: <input type="text" name="name" /> <br/><br/>
-			Email: <input type="email" name="email" /> <br/><br/>
-			Password: <input type="password" name="password" /> <br/><br/>
-			Gender: <input type="radio" name="gender" value="male" /> Male <input type="radio" name="gender" value="female" /> Female <br/><br/>
-			City: 	<select name="city">
-						<option>Select Current City</option>
-						<option>Bangalore</option>
-						<option>Pune</option>
-						<option>Hyderabad</option>
-						<option>Mumbai</option>
-						<option>Delhi</option>
-					</select>  <br/><br/>
-			<input type="submit" value="Register" >		
+		<form action="loginForm" method="post">
+		Email: <input type="text" name="email" /> <br/><br/>
+		Password: <input type="password" name="password" /> <br/><br/>
+		<input type="submit" value="Login" />
 		</form>
-	</div>		
+	</div>
 </body>
 </html>
