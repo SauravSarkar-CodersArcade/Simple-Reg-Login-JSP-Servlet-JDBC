@@ -1,6 +1,3 @@
----
-
-```markdown
 # 🛡️ JSP-Servlet-JDBC Registration & Login System
 
 A fully functional 💻 **Registration and Login Web Application** built using:
@@ -119,9 +116,9 @@ This project is educational 🧑‍🏫. For production-grade systems:
 
 ## 🌈 UI Screenshots (Optional)
 
-*You can add screenshots using:*
+You can add screenshots using:
 
-```markdown
+```md
 ![Register Page](screens/register.png)
 ![Login Page](screens/login.png)
 ```
@@ -150,3 +147,9 @@ Made with 💙 by **Saurav Sarkar**
 
 🪪 This project is licensed under the **MIT License** — use it freely and modify it responsibly!
 
+```
+
+---
+
+Let me know if you want a `LICENSE.txt` file as well, or want this exported to PDF/HTML.
+```
