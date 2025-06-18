@@ -145,5 +145,8 @@ Made with 💙 by **Saurav Sarkar**
 
 ## 📃 License
 
-🪪 This project is licensed under the **MIT License** — use it freely and modify it responsibly!
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+This project is licensed under the [MIT License](LICENSE.txt) — feel free to use it, learn from it, and build on it! 🛠️🚀
+
 
