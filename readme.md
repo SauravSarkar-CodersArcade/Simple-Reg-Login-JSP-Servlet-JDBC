@@ -147,9 +147,3 @@ Made with 💙 by **Saurav Sarkar**
 
 🪪 This project is licensed under the **MIT License** — use it freely and modify it responsibly!
 
-```
-
----
-
-Let me know if you want a `LICENSE.txt` file as well, or want this exported to PDF/HTML.
-```
